@@ -28,7 +28,7 @@ npm run start:dev
 
 8. Rebuild Database  with seed
 ```
-http://localhost:3000/api/v2/seed
+http://localhost:3000/api/v2/seed/numberOfRegistres
 ```
 ## Stack
 * MongoDB
